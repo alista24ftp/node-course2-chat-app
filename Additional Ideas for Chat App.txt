@@ -1,0 +1,4 @@
+Additional Ideas/Features for Node Chat App:
+- make room names case-insensitive (ie. LOTR === lotr === LOtr)
+- make usernames unique (ie. reject different users with same name in same room)
+- make list of currently active rooms (possibly with a dropdown list, and repopulate just like user list)
